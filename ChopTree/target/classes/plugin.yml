@@ -1,0 +1,11 @@
+name: ChopTree
+version: '1.0-SNAPSHOT'
+main: choptree.choptree.ChopTree
+api-version: 1.19
+authors: [ Matthew_Schwartzkopf ]
+description: Chops down the entire tree with one hit to any log in the tree
+commands:
+  chop:
+    description: /chop
+  nochop:
+    usage: /nochop
